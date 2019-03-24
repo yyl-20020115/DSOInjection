@@ -193,6 +193,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DSOInjection.def" />
+    <None Include="ProfessionalVersionInjected.exe" />
     <None Include="res\DSOInjection.rc2" />
   </ItemGroup>
   <ItemGroup>
